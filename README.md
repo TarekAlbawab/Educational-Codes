@@ -8,5 +8,7 @@ This program was an assignment during my bachelor degree :)
 
 Longing to see your contribution, feel free to contact me in person. 
  
-
+https://ibb.co/naPS2v
+https://ibb.co/gYwJ9a
+https://ibb.co/jeibvF
 
