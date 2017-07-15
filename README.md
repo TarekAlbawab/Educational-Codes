@@ -7,8 +7,7 @@ The program allows the user to add, delete the staff profile according to the us
 This program was an assignment during my bachelor degree :)
 
 Longing to see your contribution, feel free to contact me in person. 
- 
-https://ibb.co/naPS2v
+ < img src="https://ibb.co/naPS2v" >
+
 https://ibb.co/gYwJ9a
 https://ibb.co/jeibvF
-
