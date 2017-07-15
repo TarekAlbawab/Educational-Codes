@@ -7,4 +7,4 @@ The program allows the user to add, delete the staff profile according to the us
 This program was an assignment during my bachelor degree :)
 
 Longing to see your contribution, feel free to contact me in person. 
-Tarek. 
+ 
