@@ -1,4 +1,4 @@
-# Staff-Directory
+# Staff Directory
 
 Design and write a complete user friendly menu driven C program to serve as Staff Information System for a company. The program saves all records to a database file (i.e. database.dat). If the database file cannot be read, an error message will be printed to notify the user.
 
